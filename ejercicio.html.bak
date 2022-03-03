@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="es">
+	<head>
+		<title> Mi primera web</title>
+	</head>
+	<body>
+		<!--Encabezado-->
+		<h1> Mi primera web</h1>
+		<!--Menu-->
+		<ul>
+			<li>Inicio</li>
+			<li>Contenidos</li>
+			<li>Contacto</li>
+		</u>
+		
+		<hr/>
+		
+		<!--Contenido de index-->
+		<h2> Bienvenido a mi webside </h2>
+	
+	</body>
+</html>
